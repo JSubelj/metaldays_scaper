@@ -11,7 +11,8 @@ if __name__ == "__main__":
     with open("bands.csv", "w") as f:
         f.write("Band,Country,MDGenre,MAGenre,noOfAlbums,ytVideo\n")
 
-    for a in soup.find_all("a", {'class': 'article regular'}):
+    all_as = soup.find_all("a", {'class': 'article regular'})+ soup.find_all("a", {'class': 'article large'})
+    for a in all_as:
         html_band = http.request('GET', a.get('href')).data
         soup_band = BeautifulSoup(html_band, 'html.parser')
         band_and_genre = soup_band \
@@ -26,6 +27,7 @@ if __name__ == "__main__":
         country = band_and_genre.span.string.split("(")[1][:-1]
         genre = band_and_genre.span.string.split("(")[0][:-1]
         name = name.replace("Ö", "O")
+        '''
         metal_archives_json = http.request("GET",
                                            "http://em.wemakesites.net/search/band_name/"
                                            + name.replace(" ","%20")
@@ -66,7 +68,9 @@ if __name__ == "__main__":
             print(country)
             print(array_bands)
             MAGenre = ""
-
+        '''
+        MAGenre = ""
+        no_of_albums = 0
         with open("bands.csv","a") as f:
             f.write("%s,%s,%s,%s,%d,%s\n" % (name, country, genre, MAGenre,no_of_albums,band_yt_video))
 

@@ -1,117 +1,133 @@
 Band,Country,MDGenre,MAGenre,noOfAlbums,ytVideo
-1000MODS,Greece,psychedelic stoner rock,,0,https://www.youtube.com/embed/tkLA91QXBkQ
-A SERENADE TO KILL,Austria,melodic core metal,,0,https://www.youtube.com/embed/LdK7ZCwaUro
-ALIEN WEAPONRY,New Zealand,thrash metal,,0,https://www.youtube.com/embed/Lx_xGv70Yyo
-ANAKIM,United Kingdom,death metal,Death Metal,1,https://www.youtube.com/embed/ycdal4TF6LM
-AND THERE WILL BE BLOOD,Germany,Melodic Death Metal,Metalcore/Melodic Death Metal,1,https://www.youtube.com/embed/Gu3S3eps0hE
-ANNISOKAY,Germany,metalcore,,0,https://www.youtube.com/embed/K3emXVfcELc
-ANY GIVEN DAY,Germany,deathcore,,0,https://www.youtube.com/embed/ZZpVQagvYRA
-ARMAHDA,Brazil,HEAVY METAL,Heavy/Power Metal,1,https://www.youtube.com/embed/Hl0ZXfnH4x8
-ASOMVEL,UK,HEAVY METAL,Heavy Metal,2,
-ASYLUM PYRE,France,melodic,Progressive/Power Metal,3,https://www.youtube.com/embed/3_nnDc6s2ZA
-ATER ERA,Slovenia,black metal,Black Metal,3,https://www.youtube.com/embed/xz0NO3ShXxo
-ATHIRIA,Austria,death metal,Death Metal,2,https://www.youtube.com/embed/ona2hB6uLmc
-ATTIC,Germany,HEAVY METAL,Heavy Metal,2,https://www.youtube.com/embed/wAuNXL8yDqw
-BATTLE BEAST,Finland,HEAVY METAL,Heavy Metal,4,https://www.youtube.com/embed/P3k7r_U8b40
-BATTLESWORD,Germany,HEAVY METAL,Melodic Death Metal,2,https://www.youtube.com/embed/QSr1auEeetA
-BELPHEGOR,Austria,death  / black metal diabolical,Death/Black Metal,11,https://www.youtube.com/embed/tyDaEXtnYIo
-BIRDFLESH,Sweden,Grindcore,Grindcore,4,https://www.youtube.com/embed/ui5rBjASn1M
-BLACK REAPER,Slovenia,thrash metal,Thrash Metal,1,https://www.youtube.com/embed/Z6rdqjWrjoU
-BLEEDING GODS,The Netherlands,death metal,Thrash/Death Metal,2,https://www.youtube.com/embed/bakhuYIHAfo
-BOLZER,2 guys for 1 extreme metal band,black metal death metal,Black/Death Metal,1,https://www.youtube.com/embed/SsfcRidDEnQ
-BRUTART,Slovenia,death doom,Death/Doom Metal,2,https://www.youtube.com/embed/QvFWQjUbqQA
-CARONTE,Italy,shamanic doom,Doom/Stoner Metal,3,https://www.youtube.com/embed/2JVPRHkykaM
-CARPATHIAN FOREST,Norway,black metal,Black Metal,5,https://www.youtube.com/embed/3VI0kVbkZ
-CARRION,Belgium,death metal,Death Metal,2,https://www.youtube.com/embed/-buxKozN0yg
-CHRONOSPHERE,Greece,thrash metal,Thrash Metal,3,https://www.youtube.com/embed/gAnmdXcAeYU
-COLD SNAP,Croatia,groove metal,,0,https://www.youtube.com/embed/Plw3s6Qxx6I
-COPIA,Australia,,,0,https://www.youtube.com/embed/wbJIKc3aH2s
-CROWN THE FALLEN,Austria,metal,Melodic Death Metal,1,https://www.youtube.com/embed/SEyvNaJJRVo
-DARKENED NOCTURN SLAUGHTERCULT,Germany,black metal,Black Metal,5,https://www.youtube.com/embed/jsr0pwihGto
-DAWNLESS,Switzerland,melodic,Progressive Power Metal,3,https://www.youtube.com/embed/xpcjz4Bm8JA
-DEATH ALLEY,Holland,,,0,https://www.youtube.com/embed/9oF7yvz7iKQ
-DEKADENT,Slovenia,black metal,Atmospheric Black Metal,4,https://www.youtube.com/embed/krRZBFyVDyc
-DEMONICAL,Sweden,death metal,Death Metal,5,https://www.youtube.com/embed/geZPgyp2iM0
-DIAMOND HEAD,United Kingdom,NWOBHM,NWOBHM (early), Hard Rock (later),7,https://www.youtube.com/embed/mbgv587ooNM
-DREAMSPIRIT,China,HEAVY METAL,Heavy/Folk Metal,2,https://www.youtube.com/embed/ypBArDhXM44
-DUST BOLT,Germany,thrash metal,Thrash Metal,3,https://www.youtube.com/embed/RfZCQ5XBAbo
-DYING GORGEOUS LIES,Germany,metal,Heavy/Thrash Metal,2,https://www.youtube.com/embed/uB2y3Y3lPYU
-EVENDIM,Finland,folk metal,,0,https://www.youtube.com/embed/6EDKclSToEs
-EXIST IMMORTAL,United Kingdom,metalcore,,0,https://www.youtube.com/embed/QcLCAysxfCI
-FEARANCY,Austria,industrial metal groove metal,,0,https://www.youtube.com/embed/K_63SH3tasw
-FIRTAN,Germany,black metal,Pagan/Black Metal,2,https://www.youtube.com/embed/_Weu0J7xkZw
-FORJA,Spain,folk metal,Folk/Power Metal,1,https://www.youtube.com/embed/zKei2JIvbrI
-GIRLSCHOOL,United Kingdom,NWOBHM,Heavy Metal, NWOBHM,13,https://www.youtube.com/embed/8gC667kIk9s
-GOATWHORE,USA,metal,Black/Death/Thrash Metal,7,https://www.youtube.com/embed/9FT5FowymII
+1000MODS,Greece,psychedelic stoner rock,,0,https://www.youtube-nocookie.com/embed/tkLA91QXBkQ
+A SERENADE TO KILL,Austria,melodic core metal,,0,https://www.youtube-nocookie.com/embed/LdK7ZCwaUro
+ALIEN WEAPONRY,New Zealand,thrash metal,,0,https://www.youtube-nocookie.com/embed/Lx_xGv70Yyo
+ANAKIM,United Kingdom,death metal,,0,https://www.youtube-nocookie.com/embed/ycdal4TF6LM
+AND THERE WILL BE BLOOD,Germany,Melodic Death Metal,,0,https://www.youtube-nocookie.com/embed/Gu3S3eps0hE
+ANY GIVEN DAY,Germany,deathcore,,0,https://www.youtube-nocookie.com/embed/ZZpVQagvYRA
+ARMAHDA,Brazil,HEAVY METAL,,0,https://www.youtube-nocookie.com/embed/Hl0ZXfnH4x8
+ASOMVEL,UK,HEAVY METAL,,0,
+ASYLUM PYRE,France,melodic,,0,https://www.youtube-nocookie.com/embed/3_nnDc6s2ZA
+ATER ERA,Slovenia,black metal,,0,https://www.youtube-nocookie.com/embed/xz0NO3ShXxo
+ATHIRIA,Austria,death metal,,0,https://www.youtube-nocookie.com/embed/ona2hB6uLmc
+ATTIC,Germany,HEAVY METAL,,0,https://www.youtube-nocookie.com/embed/wAuNXL8yDqw
+BATTLE BEAST,Finland,HEAVY METAL,,0,https://www.youtube-nocookie.com/embed/P3k7r_U8b40
+BATTLESWORD,Germany,HEAVY METAL,,0,https://www.youtube-nocookie.com/embed/QSr1auEeetA
+BELPHEGOR,Austria,death  / black metal diabolical,,0,https://www.youtube-nocookie.com/embed/tyDaEXtnYIo
+BIRDFLESH,Sweden,Grindcore,,0,https://www.youtube-nocookie.com/embed/ui5rBjASn1M
+BLACK REAPER,Slovenia,thrash metal,,0,https://www.youtube-nocookie.com/embed/Z6rdqjWrjoU
+BLEEDING GODS,The Netherlands,death metal,,0,https://www.youtube-nocookie.com/embed/bakhuYIHAfo
+BOLZER,2 guys for 1 extreme metal band,black metal death metal,,0,https://www.youtube-nocookie.com/embed/SsfcRidDEnQ
+BRUTART,Slovenia,death doom,,0,https://www.youtube-nocookie.com/embed/QvFWQjUbqQA
+CARONTE,Italy,shamanic doom,,0,https://www.youtube-nocookie.com/embed/2JVPRHkykaM
+CARPATHIAN FOREST,Norway,black metal,,0,https://www.youtube-nocookie.com/embed/3VI0kVbkZ
+CARRION,Belgium,death metal,,0,https://www.youtube-nocookie.com/embed/-buxKozN0yg
+CHRONOSPHERE,Greece,thrash metal,,0,https://www.youtube-nocookie.com/embed/gAnmdXcAeYU
+COLD SNAP,Croatia,groove metal,,0,https://www.youtube.com/embed/f2jJrTKNmrI
+COPIA,Australia,,,0,https://www.youtube-nocookie.com/embed/wbJIKc3aH2s
+CROWN THE FALLEN,Austria,metal,,0,https://www.youtube-nocookie.com/embed/SEyvNaJJRVo
+DARKENED NOCTURN SLAUGHTERCULT,Germany,black metal,,0,https://www.youtube-nocookie.com/embed/jsr0pwihGto
+DAWNLESS,Switzerland,melodic,,0,https://www.youtube-nocookie.com/embed/xpcjz4Bm8JA
+DEATH ALLEY,Holland,,,0,https://www.youtube-nocookie.com/embed/9oF7yvz7iKQ
+DEKADENT,Slovenia,black metal,,0,https://www.youtube-nocookie.com/embed/krRZBFyVDyc
+DEMONICAL,Sweden,death metal,,0,https://www.youtube-nocookie.com/embed/geZPgyp2iM0
+DIAMOND HEAD,United Kingdom,NWOBHM,,0,https://www.youtube-nocookie.com/embed/mbgv587ooNM
+DREAMSPIRIT,China,HEAVY METAL,,0,https://www.youtube-nocookie.com/embed/ypBArDhXM44
+DUST BOLT,Germany,thrash metal,,0,https://www.youtube-nocookie.com/embed/RfZCQ5XBAbo
+DYING GORGEOUS LIES,Germany,metal,,0,https://www.youtube-nocookie.com/embed/uB2y3Y3lPYU
+EVENDIM,Finland,folk metal,,0,https://www.youtube-nocookie.com/embed/6EDKclSToEs
+EXIST IMMORTAL,United Kingdom,metalcore,,0,https://www.youtube-nocookie.com/embed/QcLCAysxfCI
+FEARANCY,Austria,industrial metal groove metal,,0,https://www.youtube-nocookie.com/embed/K_63SH3tasw
+FIRTAN,Germany,black metal,,0,https://www.youtube-nocookie.com/embed/_Weu0J7xkZw
+FORJA,Spain,folk metal,,0,https://www.youtube-nocookie.com/embed/zKei2JIvbrI
+GIRLSCHOOL,United Kingdom,NWOBHM,,0,https://www.youtube-nocookie.com/embed/8gC667kIk9s
+GOATWHORE,USA,metal,,0,https://www.youtube-nocookie.com/embed/9FT5FowymII
 GRUESOME,USA,death metal,,0,
-GUT,Germany,Grindcore,Brutal Death Metal,1,https://www.youtube.com/embed/da8rGg1qx2k
-HANGAR 55,Slovenia,HEAVY METAL hard rock,Heavy Metal,1,https://www.youtube.com/embed/npuBDOqsS9w
-HARAKIRI FOR THE SKY,Austria,Post Black Metal,Post-Black Metal,4,https://www.youtube.com/embed/adtaUUns1YY
-HATE,Poland,Extreme metal,Death Metal,10,https://www.youtube.com/embed/YpOdLGtmDw4
-HATE ETERNAL,USA,death metal,Death Metal,6,https://www.youtube.com/embed/WdPDz3MVd6Y
-HEART ATTACK,France,groove thrash metal,Thrash/Groove Metal,2,https://www.youtube.com/embed/ZrCFpfQomIQ
-HECATE ENTHRONED,United Kingdom,death metal,Melodic Black/Death Metal,5,https://www.youtube.com/embed/9m9BhxXwl48
-HEXA MERA,Belgium,Melodic Death Metal,Melodic Death Metal,2,https://www.youtube.com/embed/5NZaokSpwok
-INGESTED,United Kingdom,slamming death,Brutal Death Metal/Deathcore,4,https://www.youtube.com/embed/RXEEuCxcTys
-JIG AI,Czech Republic,,Death Metal/Goregrind,3,https://www.youtube.com/embed/TFwy8yxkro8
-JINJER,Ukraine,Progressive,,0,https://www.youtube.com/embed/SQNtGoM3FVU
-LORDS OF BLACK,Spain,HEAVY METAL,Heavy Metal,3,https://www.youtube.com/embed/wOVX5geh4CY
-MALEMORT,France,Free Metal,,0,https://www.youtube.com/embed/ujslsZn3520
-MANTAR,Germany,Black Metal Doom Punk,Sludge Metal,2,https://www.youtube.com/embed/faXx3ac9XPQ
-MASTER,USA,death metal,,0,https://www.youtube.com/embed/hC5mxwKRxi0
-MEMBRANCE,Italy,death metal,Death Metal,1,https://www.youtube.com/embed/nLtwtKd0zJ4
-MONARCH,France,doom metal,Doom Metal,0,https://www.youtube.com/embed/5Z5OYt1DZhE
+GUT,Germany,Grindcore,,0,https://www.youtube-nocookie.com/embed/da8rGg1qx2k
+HANGAR 55,Slovenia,HEAVY METAL hard rock,,0,https://www.youtube-nocookie.com/embed/npuBDOqsS9w
+HARAKIRI FOR THE SKY,Austria,Post Black Metal,,0,https://www.youtube-nocookie.com/embed/adtaUUns1YY
+HATE,Poland,Extreme metal,,0,https://www.youtube-nocookie.com/embed/YpOdLGtmDw4
+HEART ATTACK,France,groove thrash metal,,0,https://www.youtube-nocookie.com/embed/ZrCFpfQomIQ
+HECATE ENTHRONED,United Kingdom,death metal,,0,https://www.youtube-nocookie.com/embed/9m9BhxXwl48
+HEXA MERA,Belgium,Melodic Death Metal,,0,https://www.youtube-nocookie.com/embed/5NZaokSpwok
+INGESTED,United Kingdom,slamming death,,0,https://www.youtube-nocookie.com/embed/RXEEuCxcTys
+JIG AI,Czech Republic,,,0,https://www.youtube-nocookie.com/embed/TFwy8yxkro8
+JINJER,Ukraine,Progressive,,0,https://www.youtube-nocookie.com/embed/SQNtGoM3FVU
+LORDS OF BLACK,Spain,HEAVY METAL,,0,https://www.youtube-nocookie.com/embed/wOVX5geh4CY
+MALEMORT,France,Free Metal,,0,https://www.youtube-nocookie.com/embed/ujslsZn3520
+MANTAR,Germany,Black Metal Doom Punk,,0,https://www.youtube-nocookie.com/embed/faXx3ac9XPQ
+MASTER,USA,death metal,,0,https://www.youtube-nocookie.com/embed/hC5mxwKRxi0
+MEMBRANCE,Italy,death metal,,0,https://www.youtube-nocookie.com/embed/nLtwtKd0zJ4
+MONARCH,France,doom metal,,0,https://www.youtube-nocookie.com/embed/5Z5OYt1DZhE
 MONUMENT,UK,HEAVY METAL,,0,
-MOROS,Austria,death thrash,Death/Thrash Metal,1,https://www.youtube.com/embed/CIdPspc7E8s
-MOROST,Slovenia,death groove metal,Progressive Death Metal,1,https://www.youtube.com/embed/2
-MYRKUR,Denmark,,,0,https://www.youtube.com/embed/M9cNZQIzShc
-NORDJEVEL,Norway,black metal,Black Metal,1,https://www.youtube.com/embed/VttRtQPAm7w
-OMEGA SUN,Slovenia,fuzz,Stoner/Doom Metal,1,https://www.youtube.com/embed/3qXtKLpZ_GI
-OMOPHAGIA,Switzerland,death metal,Death Metal,2,https://www.youtube.com/embed/ACsjGT_ivJE
-ORCUS O DIS,Mexico,Melodic Death Metal,Melodic Death Metal,1,https://www.youtube.com/embed/PFV6XLtEzLo
-OUBLIETTE,USA,Extreme metal,,0,https://www.youtube.com/embed/rYqftRrpSVU
-PALLBEARER,USA,doom metal,Doom Metal,3,https://www.youtube.com/embed/DNl_18Kr56g
-PICTURA POESIS ,The Netherlands,symphonic metal,Symphonic Death Metal,1,https://www.youtube.com/embed/71DSUE02wVM
-PILLORIAN,USA,black metal,Black Metal,1,https://www.youtube.com/embed/rBYHAqYhT_s
-PRIMORDIAL,Ireland,Primordial metal,Celtic Folk/Black Metal,9,https://www.youtube.com/embed/FpuwbyM5BKc
-RAGE,Germany,HEAVY METAL speed metal,Heavy/Speed/Power Metal,22,https://www.youtube.com/embed/JRfOdGlafuA
-REJECT THE SICKNESS,Belgium,metalcore melodic,Melodic Death Metal/Metalcore,2,https://www.youtube.com/embed/oBE1Z6fjtSY
-ROTTEN SOUND,Finland,Grindcore death metal,Grindcore,7,https://www.youtube.com/embed/ttdQnPakmPQ
-SAILLE,Belgium,black metal,Symphonic Black Metal,4,https://www.youtube.com/embed/tyvK4HLTEI0
-SASQUATCH,Germany,,Death Metal,1,https://www.youtube.com/embed/M8iaCEVXkxY
-SCHAMMASCH,Switzerland,,Black/Death Metal (early), Avant-garde/Black Metal (later),3,https://www.youtube.com/embed/A3xZDdVq2kQ
-SELVANS,Italy,,Atmospheric Folk/Black Metal,1,https://www.youtube.com/embed/WUb5dM13_O4
-SHADE EMPIRE,Finland,Symphonic extreme metal,Melodic Industrial Death/Black Metal,5,https://www.youtube.com/embed/j6WNWFmnJnE
-SHINING,Sweden,Extreme metal,Black Metal,11,https://www.youtube.com/embed/QO1JZ0qTSuE
-SINISTRO,Portugal,ambient,Sludge/Doom/Post-Metal,3,https://www.youtube.com/embed/kn3vhROe5WQ
-SISTERS OF SUFFOCATION,Netherlands,death metal,Death Metal,1,
-SKELETONWITCH,USA,metal,Melodic Death/Thrash Metal,6,https://www.youtube.com/embed/ZgHDonZa7ws
-SLEEPERS' GUILT,Luxembourg,Progressive melodic,Melodic Death Metal,1,
-SOBER ASSAULT,Slovenia,,Melodic Thrash/Death Metal,0,https://www.youtube.com/embed/DWFMYg2O1Iw
-SORCERER,Sweden,doom metal,Epic Doom Metal,2,https://www.youtube.com/embed/lSrCwjtp5GY
-SOULFLY,Brazil/USA,metal,Nu-Metal with tribal influences (early), Groove/Thrash/Death Metal (later),10,
-SPLINTERBOMB,The Netherlands,groove thrash metal,Thrash/Groove Metal,0,https://www.youtube.com/embed/hhQTPIGAgig
-STORM SEEKER,Germany,folk metal,Folk Metal,0,https://www.youtube.com/embed/B65Vr6O9QI4
-SUPREME CARNAGE,Germany,death metal,Death Metal,3,https://www.youtube.com/embed/bf_zymR70BE
-TEN TON SLUG,UK,Sludge,Sludge/Groove Metal,0,https://www.youtube.com/embed/CVFxVNxvSWo
+MOROS,Austria,death thrash,,0,https://www.youtube-nocookie.com/embed/CIdPspc7E8s
+MOROST,Slovenia,death groove metal,,0,https://www.youtube-nocookie.com/embed/2
+MYRKUR,Denmark,,,0,https://www.youtube-nocookie.com/embed/M9cNZQIzShc
+NORDJEVEL,Norway,black metal,,0,https://www.youtube-nocookie.com/embed/VttRtQPAm7w
+OMEGA SUN,Slovenia,fuzz,,0,https://www.youtube-nocookie.com/embed/3qXtKLpZ_GI
+OMOPHAGIA,Switzerland,death metal,,0,https://www.youtube-nocookie.com/embed/ACsjGT_ivJE
+ORCUS O DIS,Mexico,Melodic Death Metal,,0,https://www.youtube-nocookie.com/embed/PFV6XLtEzLo
+OUBLIETTE,USA,Extreme metal,,0,https://www.youtube-nocookie.com/embed/rYqftRrpSVU
+PALLBEARER,USA,doom metal,,0,https://www.youtube-nocookie.com/embed/DNl_18Kr56g
+PICTURA POESIS ,The Netherlands,symphonic metal,,0,https://www.youtube-nocookie.com/embed/71DSUE02wVM
+PILLORIAN,USA,black metal,,0,https://www.youtube-nocookie.com/embed/rBYHAqYhT_s
+PRIMORDIAL,Ireland,Primordial metal,,0,https://www.youtube-nocookie.com/embed/FpuwbyM5BKc
+RAGE,Germany,HEAVY METAL speed metal,,0,https://www.youtube-nocookie.com/embed/JRfOdGlafuA
+REJECT THE SICKNESS,Belgium,metalcore melodic,,0,https://www.youtube-nocookie.com/embed/oBE1Z6fjtSY
+ROTTEN SOUND,Finland,Grindcore death metal,,0,https://www.youtube-nocookie.com/embed/ttdQnPakmPQ
+SAILLE,Belgium,black metal,,0,https://www.youtube-nocookie.com/embed/tyvK4HLTEI0
+SASQUATCH,Germany,,,0,https://www.youtube-nocookie.com/embed/M8iaCEVXkxY
+SCHAMMASCH,Switzerland,,,0,https://www.youtube-nocookie.com/embed/A3xZDdVq2kQ
+SELVANS,Italy,,,0,https://www.youtube-nocookie.com/embed/WUb5dM13_O4
+SHADE EMPIRE,Finland,Symphonic extreme metal,,0,https://www.youtube-nocookie.com/embed/j6WNWFmnJnE
+SHINING,Sweden,Extreme metal,,0,https://www.youtube-nocookie.com/embed/QO1JZ0qTSuE
+SINISTRO,Portugal,ambient,,0,https://www.youtube-nocookie.com/embed/kn3vhROe5WQ
+SISTERS OF SUFFOCATION,Netherlands,death metal,,0,
+SKELETONWITCH,USA,metal,,0,https://www.youtube-nocookie.com/embed/ZgHDonZa7ws
+SLEEPERS' GUILT,Luxembourg,Progressive melodic,,0,
+SOBER ASSAULT,Slovenia,,,0,https://www.youtube-nocookie.com/embed/DWFMYg2O1Iw
+SORCERER,Sweden,doom metal,,0,https://www.youtube-nocookie.com/embed/lSrCwjtp5GY
+SOULFLY,Brazil/USA,metal,,0,
+SPLINTERBOMB,The Netherlands,groove thrash metal,,0,https://www.youtube-nocookie.com/embed/hhQTPIGAgig
+STORM SEEKER,Germany,folk metal,,0,https://www.youtube-nocookie.com/embed/B65Vr6O9QI4
+SUPREME CARNAGE,Germany,death metal,,0,https://www.youtube-nocookie.com/embed/bf_zymR70BE
+TEN TON SLUG,UK,Sludge,,0,https://www.youtube-nocookie.com/embed/CVFxVNxvSWo
 TESSERACT,UK,Progressive Metal,,0,
-THE BEARDED BASTARDS,France,hardcore thrash,,0,https://www.youtube.com/embed/pQcO6wHKzGU
-THE LURKING FEAR,Sweden / UK,,Death Metal,1,https://www.youtube.com/embed/_8f0HTqE3NM
-THURISAZ,Belgium,atmospheric avantgarde metal,Atmospheric Death/Black Metal,4,https://www.youtube.com/embed/8draqX6eL_4
-TREMONTI,USA,metal  heavy rock,,0,https://www.youtube.com/embed/9HghPn3v4e4
-TROLLORT,Switzerland,black folk metal,Folk Metal,2,https://www.youtube.com/embed/lYkr8W84jpw
-TURBOWARRIOR OF STEEL,Belgium,Crossover party thrash,Thrash Metal, Punk,2,https://www.youtube.com/embed/93g7K8_aSJM
-TYRMFAR,Switzerland,black metal death metal,Melodic Black Metal,1,
-ULTHA,Germany,black metal,Black Metal,2,
-VAD,Spain,black metal,Pagan Black Metal,1,https://www.youtube.com/embed/gZwiTSP02oU
-VALUK,Slovenia,black metal,Black Metal,1,https://www.youtube.com/embed/9cMKhVKoVfA
-VASECTOMY,Slovenia,,Death Metal,0,https://www.youtube.com/embed/sVt8iybqizg
-VICTORIUS,Germany,power metal,Power Metal,4,https://www.youtube.com/embed/HNkSSHhC0WM
-VIRVUM,Switzerland,death metal,Progressive/Technical Death Metal,1,https://www.youtube.com/embed/M0xlkvZBO7E
-VOICE OF RUIN,SWITZERLAND,metal,Thrash/Groove Metal,2,https://www.youtube.com/embed/rpsMqzuWeSo
-VREDEHAMMER,Norway,Extreme metal,Black/Death Metal,2,https://www.youtube.com/embed/_z4lMRI4x4Y
-VUUR,Netherlands,Progressive Metal,Progressive Metal,1,https://www.youtube.com/embed/gAwDw5zXtLI
-WARBEAST REMAINS,Belgium,,Death Metal,1,https://www.youtube.com/embed/qgEsa4403ow
-WIEGEDOOD,Belgium,black metal,Black Metal,3,https://www.youtube.com/embed/s
-WINTERHORDE,Germany / Israel,Dramatic extreme metal,Melodic Black Metal,3,https://www.youtube.com/embed/HXwZT9wD8CA
-WOMIT ANGEL ,Finland,black metal satanic rock,Black/Thrash Metal, Punk,3,https://www.youtube.com/embed/SFn7Aqgqwcs
+THE BEARDED BASTARDS,France,hardcore thrash,,0,https://www.youtube-nocookie.com/embed/pQcO6wHKzGU
+THE LURKING FEAR,Sweden / UK,,,0,https://www.youtube-nocookie.com/embed/_8f0HTqE3NM
+THURISAZ,Belgium,atmospheric avantgarde metal,,0,https://www.youtube-nocookie.com/embed/8draqX6eL_4
+TREMONTI,USA,metal  heavy rock,,0,https://www.youtube-nocookie.com/embed/9HghPn3v4e4
+TROLLORT,Switzerland,black folk metal,,0,https://www.youtube-nocookie.com/embed/lYkr8W84jpw
+TURBOWARRIOR OF STEEL,Belgium,Crossover party thrash,,0,https://www.youtube-nocookie.com/embed/93g7K8_aSJM
+TYRMFAR,Switzerland,black metal death metal,,0,
+VAD,Spain,black metal,,0,https://www.youtube-nocookie.com/embed/gZwiTSP02oU
+VALUK,Slovenia,black metal,,0,https://www.youtube-nocookie.com/embed/9cMKhVKoVfA
+VASECTOMY,Slovenia,,,0,https://www.youtube-nocookie.com/embed/sVt8iybqizg
+VICTORIUS,Germany,power metal,,0,https://www.youtube-nocookie.com/embed/HNkSSHhC0WM
+VIRVUM,Switzerland,death metal,,0,https://www.youtube-nocookie.com/embed/M0xlkvZBO7E
+VOICE OF RUIN,SWITZERLAND,metal,,0,https://www.youtube-nocookie.com/embed/rpsMqzuWeSo
+VREDEHAMMER,Norway,Extreme metal,,0,https://www.youtube-nocookie.com/embed/_z4lMRI4x4Y
+VUUR,Netherlands,Progressive Metal,,0,https://www.youtube-nocookie.com/embed/gAwDw5zXtLI
+WARBEAST REMAINS,Belgium,,,0,https://www.youtube-nocookie.com/embed/qgEsa4403ow
+WIEGEDOOD,Belgium,black metal,,0,https://www.youtube-nocookie.com/embed/s
+WINTERHORDE,Germany / Israel,Dramatic extreme metal,,0,https://www.youtube-nocookie.com/embed/HXwZT9wD8CA
+WOMIT ANGEL ,Finland,black metal satanic rock,,0,https://www.youtube-nocookie.com/embed/SFn7Aqgqwcs
+ACCEPT,Germany,Metal Legends,,0,https://www.youtube-nocookie.com/embed/mE9L7Pk78D8
+ALESTORM,Scotland,pirate metal,,0,
+BEHEMOTH,Poland,black metal death metal,,0,https://www.youtube-nocookie.com/embed/7xbZMJGpc9I
+BLACK STAR RIDERS,USA,rock,,0,https://www.youtube-nocookie.com/embed/SvcNNeiMl90
+CANNIBAL CORPSE,USA,death metal,,0,https://www.youtube-nocookie.com/embed/afrGiaxOorc
+CHILDREN OF BODOM,Finland,Extreme metal,,0,https://www.youtube-nocookie.com/embed/GCztVAF_f0k
+CORONER,Switzerland,Technical thrash metal,,0,https://www.youtube-nocookie.com/embed/mAwY0Cf_sRo
+ELUVEITIE,Switzerland,folk metal,,0,https://www.youtube-nocookie.com/embed/jMKykGYsmFY
+ENSIFERUM,Finland,melodic folk metal,,0,https://www.youtube-nocookie.com/embed/tiuf4uSYFlQ
+EPICA,The Netherlands,symphonic metal,,0,https://www.youtube-nocookie.com/embed/D_QLQHkj1XU
+HATEBREED,USA,hardcore,,0,https://www.youtube-nocookie.com/embed/7UAK885wB54
+IGORRR,France,,,0,https://www.youtube-nocookie.com/embed/JFuCp496C2c
+JUDAS PRIEST,UK,metal gods,,0,https://www.youtube-nocookie.com/embed/nM__lPTWThU
+KATAKLYSM,Canada,death metal,,0,
+LEPROUS,Norway,Progressive Metal,,0,
+LOUDNESS,Japan,HEAVY METAL,,0,https://www.youtube-nocookie.com/embed/MUrcQURUq0M
+MUNICIPAL WASTE,USA,speed metal punk,,0,https://www.youtube-nocookie.com/embed/BtJ7hV5IbLs
+OBITUARY,USA,Florida Death Metal,,0,https://www.youtube-nocookie.com/embed/q3VuWq3NxEA
+WATAIN,Sweden,black metal,,0,https://www.youtube-nocookie.com/embed/qGPYb2y_PDA
