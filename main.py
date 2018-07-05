@@ -1,6 +1,6 @@
 import urllib3
 from bs4 import BeautifulSoup
-import json
+import em_api
 
 API_KEY="4fa44a95-35f9-4a13-97f8-7f306cb96903"
 
@@ -69,8 +69,13 @@ if __name__ == "__main__":
             print(array_bands)
             MAGenre = ""
         '''
-        MAGenre = ""
-        no_of_albums = 0
+
+        MAGenre, no_of_albums = em_api.get_band_genre_and_no_of_albums(name, country)
+        if MAGenre is None:
+            MAGenre = ""
+            no_of_albums = 0
+            print("\nCORRECT ME")
+            print(name)
         with open("bands.csv","a") as f:
             f.write("%s,%s,%s,%s,%d,%s\n" % (name, country, genre, MAGenre,no_of_albums,band_yt_video))
 
