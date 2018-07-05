@@ -6,9 +6,9 @@ import json
 
 def get_bands_and_gens():
     b_a_g = {}
-    with open("bands_corrected_extended.csv") as f:
+    with open("bands.csv") as f:
         for l in f:
-            line = l.split(";")
+            line = l.split(",")
             name = line[0]
             genre = line[3]
             if genre == "":

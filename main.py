@@ -70,12 +70,13 @@ if __name__ == "__main__":
             MAGenre = ""
         '''
 
-        MAGenre, no_of_albums = em_api.get_band_genre_and_no_of_albums(name, country)
+        MAGenre, no_of_albums = em_api.get_band_genre_and_no_of_albums(name, country, genre)
         if MAGenre is None:
             MAGenre = ""
             no_of_albums = 0
             print("\nCORRECT ME")
             print(name)
+            print(country)
         with open("bands.csv","a") as f:
             f.write("%s,%s,%s,%s,%d,%s\n" % (name, country, genre, MAGenre,no_of_albums,band_yt_video))
 
