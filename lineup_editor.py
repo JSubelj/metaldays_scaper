@@ -88,10 +88,7 @@ if __name__ == "__main__":
     http = urllib3.PoolManager()
     html = http.request('GET', "http://www.metaldays.net/Line_up").data
     soup = BeautifulSoup(html, 'html.parser')
-    # print(soup)
     xl_writer = XlWriter()
-    #xl_writer.write_day([[["time","name","genre",""]],[["time","name","genre",""]],[["time","name","genre",""],["time","name","genre",""]]],"test")
-    #xl_writer.write_day([[["time","name","genre",""]],[["time","name","genre",""]],[["time","name","genre",""],["time","name","genre",""]]],"test")
     for i in range(0, 7):
         day_html = soup.find("div", {"id": "day" + str(i)})
         sec_and_third = day_html.find_all("div", {"class": "lineup_stage second_stage"})
@@ -109,7 +106,6 @@ if __name__ == "__main__":
         main = None
         if main_soup is not None:
             main = []
-            #print(main_soup)
             tmp = main_soup.findAll("div",{"class": "band_lineup"})
             bands = tmp[::-1]
             for band in bands:
@@ -126,7 +122,6 @@ if __name__ == "__main__":
         second = None
         if second_soup is not None:
             second = []
-            # print(main_soup)
             tmp = second_soup.findAll("div", {"class": "band_lineup"})
             bands = tmp[::-1]
             for band in bands:
@@ -143,7 +138,6 @@ if __name__ == "__main__":
         third = None
         if third_soup is not None:
             third = []
-            # print(main_soup)
             tmp = third_soup.findAll("div", {"class": "band_lineup"})
             bands = tmp[::-1]
             for band in bands:
@@ -162,11 +156,4 @@ if __name__ == "__main__":
         xl_writer.write_day((main,second,third),day_name)
 
     xl_writer.save()
-        #
-        #main_soup = day_html.find("div", {"class": "lineup_stage main_stage"})
-        #print(main_soup)
-        #day_name = main_soup.find("div", {"class":"l-stage l-main"}).text.split("")
-        #print(day_name)
-        #
 
-    # print(day_html.find_all("div",{"class":"band_lineup"})[0])
