@@ -16,7 +16,7 @@ def parse_csv(file_name):
     lineup = {}
     with open(file_name, "r") as f:
         for line in f:
-            if line == "\n":
+            if line == "\n" or line.rstrip().lstrip() == ",":
                 continue
             days = ["sobota", "nedelja", "ponedeljek", "torek", "sreda", "četrtek", "petek"]
             stages = ["main","second","third"]
@@ -35,6 +35,7 @@ def parse_csv(file_name):
                 continue
             #print(line)
             band = line.split(",")
+            band = [attr.rstrip().lstrip() for attr in band]
             if band[-1] == "\n":
                 band[-1] = ""
             while len(band) < 6:
@@ -80,13 +81,13 @@ def export_new_to_csv(lineup):
             for current_stage, bands in stages.items():
                 f.write(current_stage + "\n")
                 bands = [bands[key] for key in bands.keys()]
-                try:
-                    bands = sorted(bands, key=lambda b: datetime.strptime(b.time.split(" ")[0],"%H:%M") if int(b.time.split(":")[0]) != 0 else datetime.strptime(b.time.split(" ")[0],"%H:%M") + timedelta(days=1) )
 
-                except:
-                    pass
+
+                bands = sorted(bands, key=lambda b: datetime.strptime(b.time.split(" ")[0],"%H:%M") if int(b.time.split(":")[0]) != 0 else datetime.strptime(b.time.split(" ")[0],"%H:%M") + timedelta(days=1) )
+
+
                 for band in bands:
-                    f.write(return_csv_line(band.time, band.name, band.country, band.description, band.flags))
+                    f.write(return_csv_line(band.time, band.name, band.country,band.genre, band.description, band.flags))
                 f.write("\n")
 
 
